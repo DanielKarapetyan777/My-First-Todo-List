@@ -17,7 +17,7 @@ class HomePage extends StatelessWidget {
         title: const Text(
           'Todo List',
           style: TextStyle(
-            fontSize: 24,
+            fontSize: 29,
             fontWeight: FontWeight.bold,
             color: Colors.black,
           ),

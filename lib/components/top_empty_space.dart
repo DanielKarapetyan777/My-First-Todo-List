@@ -8,7 +8,7 @@ class TopEmptySpace extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Container(
-      height: 150,
+      height: 100,
       decoration: const BoxDecoration(
         color: Color.fromARGB(255, 100, 168, 119),
         borderRadius: BorderRadius.only(
